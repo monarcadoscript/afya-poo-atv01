@@ -72,19 +72,3 @@ Classe `Personagem` com classes Guerreiro (HP 150) e Mago (HP 80), sistema de vi
 
 ---
 
-## ▶️ Como Executar
-
-```bash
-# Navegar para o exercício desejado e rodar
-cd Ex01_Lampada
-dotnet run
-
-cd ../Ex02_Cofre
-dotnet run
-
-cd ../Ex03_Conta
-dotnet run
-
-cd ../Ex04_RPG
-dotnet run
-```
